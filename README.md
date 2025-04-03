@@ -1,9 +1,10 @@
-# Portfolio
+# 👨‍💻 Portfolio
 
 Welcome to my professional portfolio on GitHub! Here you can find a comprehensive showcase of my skills, projects, and work experiences. I'm a cybersecurity enthusiast with a strong passion for penetration testing, security research, and exploit development. I love exploring offensive security, vulnerability assessments, and cryptographic implementations to better understand and secure modern systems.
 
 
-## Education
+
+## 🎓 Education
 
 ### California State Polytechnic University, Pomona
 - **Degree:** Masters in Computer Science
@@ -16,7 +17,8 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 - GPA: 3.63
 
 
-## Work Experience
+
+## 💼 Work Experience
 
 ### Polysec Lab | Cal Poly Pomona
 - **Role:** 📡 Research Assistant – 5G Network Security
@@ -79,7 +81,8 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 
 
 
-## Projects
+
+## 📁 Projects
 
 
 
@@ -132,7 +135,8 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 
 
 
-## Skills
+
+## 🔧 Skills
 
 🧠 Core Programming Languages:
 
