@@ -141,14 +141,12 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 
 🛡️ Cybersecurity & Tools:
 
-🧪 Kali Linux   |   🔍 Wireshark   |   💣 Metasploit   |   🛰️ Nmap
-🕵️‍♂️ Burp Suite   |   📊 Splunk   |   🎯 Cobalt Strike
+🧪 Kali Linux   |   🔍 Wireshark   |   💣 Metasploit   |   🛰️ Nmap   |   🕵️‍♂️ Burp Suite   |   📊 Splunk   |   🎯 Cobalt Strike
 
 
 ☁️ Cloud & DevOps:
 
-☁️ Microsoft Azure   |   ☁️ AWS Security   |   🔐 Azure AD
-🐳 Docker   |   ⚙️ Jenkins   |   📦 Kubernetes   |   🌀 Git
+☁️ Microsoft Azure   |   ☁️ AWS Security   |   🔐 Azure AD  |  🐳 Docker   |   ⚙️ Jenkins   |   📦 Kubernetes   |   🌀 Git
 
 
 🧱 Databases:
@@ -158,8 +156,8 @@ Welcome to my professional portfolio on GitHub! Here you can find a comprehensiv
 
 🤖 Additional Skills:
 
-🔁 Automation   |   🧵 ETL Pipelines
-🧩 Parallel Computing (MPI)   |   🌐 Web Development
+🔁 Automation   |   🧵 ETL Pipelines   |    🧩 Parallel Computing (MPI)   |   🌐 Web Development
+
 🔐 VPNs • Firewalls • SSL/TLS • IDS/IPS • SIEM
 
 
