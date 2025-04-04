@@ -1,175 +1,178 @@
-# 👨‍💻 Portfolio
+<!-- Cybersecurity Portfolio Intro -->
+<h1 align="center">Aumkaareshwar D Srinivas</h1>
+<h3 align="center"><i>Cybersecurity | Penetration Testing | Exploit Development | Network Defense</i></h3>
 
-Welcome to my professional portfolio on GitHub! Here you can find a comprehensive showcase of my skills, projects, and work experiences. I'm a cybersecurity enthusiast with a strong passion for penetration testing, security research, and exploit development. I love exploring offensive security, vulnerability assessments, and cryptographic implementations to better understand and secure modern systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/CTF-Player-informational?style=flat-square&logo=protonvpn" />
+  <img src="https://img.shields.io/badge/5G%20Security-Researcher-blueviolet?style=flat-square&logo=verizon" />
+  <img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-critical?style=flat-square&logo=tor" />
+</p>
+
+---
 
 
+Welcome to my professional cybersecurity portfolio on GitHub!  
+Here, you'll find a curated showcase of my skills, research, and tools focused on security engineering and offensive cyber operations.  
 
+
+> 🔐 "In cybersecurity, it's not just about defending — it's about thinking like the adversary."
+
+---
 ## 🎓 Education
 
-### California State Polytechnic University, Pomona
-- **Degree:** Masters in Computer Science
-- **Years:** August 2024 – May 2026
-- GPA: 3.85
+📍 **California State Polytechnic University, Pomona**  
+🎓 *MS in Computer Science* — *Aug 2024 – May 2026*  
+📈 GPA: 3.85
 
-### REVA University
-- **Degree:** Bachelor of Technology in Computer Science
-- **Years:** August 2018 – August 2022
-- GPA: 3.63
+📍 **REVA University, Bangalore, India**  
+🎓 *B.Tech in Computer Science* — *Aug 2018 – Aug 2022*  
+📈 GPA: 3.63
 
+---
 
+## 💼 Experience
 
-## 💼 Work Experience
+### 🔬 Research Assistant – 5G Network Security  
+**PolySec Lab | Cal Poly Pomona**  
+📆 *Feb 2025 – Present*
 
-### Polysec Lab | Cal Poly Pomona
-- **Role:** 📡 Research Assistant – 5G Network Security
-- **Period:** February 2025 – Present
+- Simulated 5G-specific attacks (DoS, fuzzing, protocol exploits)
+- Developed tools for penetration testing Open RAN & VNFs
+- Explored MEC, slicing, and service-based architecture risks
 
-  
-**Achievements:**
- 
-🔍 Researching security vulnerabilities across the entire 5G network, including 5G core (5GC), RAN, network slicing, and authentication mechanisms.
+---
 
-🛡️ Analyzing security controls in 5G standalone (SA) networks, evaluating threats in control/user plane traffic, inter-network communication, and protocol implementations.
+### 🛠️ Data Center Technician  
+**MITCHELL C. HILL Center | Pomona**  
+📆 *Oct 2024 – Feb 2025*
 
-⚡ Simulating real-world 5G attacks such as replay attacks, DoS, fuzzing, and protocol exploitation to assess system resilience.
+- Supported 50+ students in cybersecurity labs
+- Maintained 99.9% uptime for storage & network systems
+- Reduced security risks through system hardening
 
-🔗 Developing penetration testing methodologies and security tools for assessing 5G networks, Open RAN, and virtualized network functions (VNFs).
+---
 
-📡 Exploring risks in network slicing, MEC (Multi-access Edge Computing), API security, and exposure of 5G service-based architecture (SBA).
+### ⚙️ Automation & Testing Engineer  
+**Toshiba Software | Bangalore, India**  
+📆 *Jul 2022 – Sep 2023*
 
+- Created SSD firmware test framework using Python
+- Automated 75%+ test cases, improving QA turnaround
+- Reduced defect leakage by 30% via test optimization
 
-### MITCHELL C. HILL CENTER FOR DIGITAL INNOVATION  | POMONA
-- **Role:** 🖥️ Student Data Center Technician
-- **Period:** October 2024 – February 2025
+---
 
+### 🧪 Programming Analyst Intern  
+**Cognizant | Bangalore, India**  
+📆 *Feb 2022 – Jul 2022*
 
-**Achievements:**
-  
-🛠️ Provided support to 50+ students using storage systems for cybersecurity training and competitions.
+- Built Hadoop-based ETL pipelines (processed 1M+ records)
+- Automated 80% of UI testing with Selenium
+- Enhanced delivery and QA cycles
 
-📊 Maintained 99.9% uptime for storage and networking systems through proactive monitoring and troubleshooting.
+---
 
-🔐 Implemented security best practices, reducing potential vulnerabilities by 30% through system updates and hardening.
+##  Projects
 
+### 🧬 Epidemiology Simulation – Java | Agent-Based Modeling
 
-### TOSHIBA SOFTWARE IND PVT. LTD | BANGALORE, INDIA
-- **Role:** 💻 Automation and Testing Engineer
-- **Period:** July 2022 – September 2023
+- Built a tool that simulates how diseases spread in different types of social networks.
+- Ran multiple “what-if” scenarios to understand how infection and recovery rates affect the spread.
+- Designed the system to be flexible, so it can be reused or extended for future research.
+[📁 View Code](https://drive.google.com/drive/folders/1hDrjjx4hr5YmvQRIMj7dVzE8EKDlosXz)
 
-  
-**Achievements:**
-  
-🛠️ Designed and executed a new automation framework for SSD firmware testing using Python, increasing test efficiency by 35% and automating 75% of repetitive test cases.
 
-🐛 Monitored and resolved 100+ bugs, conducted 50+ regression and performance tests, improving SSD firmware validation and reducing defect leakage by 30%.
+### 🧠 Parallel Closeness Centrality – Python | High-Performance Computing
 
-📊 Optimized test processes, achieving faster testing cycles and providing actionable insights that contributed to firmware stability improvements.
+- Created a program that analyzes large social networks to identify the most connected users.
+- Made it run faster by splitting the work across multiple processors.
+- Organized the code so it’s easy to reuse, update, and visualize the results.
+[📁 View Code](https://drive.google.com/drive/folders/1fvw6hNSQa1PckS3ck1F4JK9U4xRKscAK)
 
 
-### Cognizant | Bangalore, India
-- **Role:** 💻 Programming Analyst Intern
-- **Period:** Feburary 2022 – July 2022
+### 🌐 Large-Scale Network Analysis – Python | Graph Theory
 
-  
-**Achievements:**
-  
-🛠️ Developed ETL pipelines using Hadoop, processing 1M+ records, and optimizing data transformation efficiency.
+- Analyzed real-world networks like Amazon and Twitch to understand how users are connected.
+- Built models that mimic these networks and compared them for accuracy.
+- Developed a faster way to calculate distances in huge networks, improving performance.
+[📁 View Code](https://drive.google.com/drive/folders/1TVA0HBHXDpzDrnH7bRVWp3_oYIU1kDRX)
 
-⚡ Automated 80% of UI testing using Selenium, reducing manual testing time and improving accuracy.
 
-📈 Streamlined testing and data processes, contributing to faster delivery cycles and higher quality assurance.
+### 🚗 Used Car Price Prediction – Python | Machine Learning
 
+- Created an app that predicts used car prices based on features like mileage, brand, and fuel type.
+- Collected and cleaned real-world data to make the predictions accurate.
+- Built a simple web interface so anyone can enter car details and instantly get a price estimate.
+[📁 View Code](https://drive.google.com/drive/folders/1XjdIsQl5uQGaW5vEb3fpj6L9MWQ84kMt)
 
+---
 
+## 🛠️ Tech Stack & Tools
 
-## 📁 Projects
+### 🧠 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
 
+### 🔐 Cybersecurity Tools
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-1f1f1f?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cobalt_Strike-000000?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_AD-0072C6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Data Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+</p>
+
+### 🤖 Other Expertise
+<p>
+  <img src="https://img.shields.io/badge/ETL_Pipelines-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Parallel_Computing-MPI-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML/CSS-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+---
+
+## 🛡️ Specializations
+
+- Penetration Testing & Exploit Dev  
+- 5G & Wireless Security Research  
+- SIEM Tools • IDS/IPS • SSL/TLS • VPNs   
+- DevSecOps & Cloud Security (Azure/AWS)
+
+---
 
-
-### Epidemiology Simulation using Graph models:
-
-🧬 Epidemiology Simulation in Repast Simphony: Designed and implemented an agent-based SIR/SI model simulating disease spread over various network types—Fully-Mixed, Small-World, and Barabasi-Albert—using Java and Repast Simphony.
-
-📊 Parameter-Driven Simulation & Analysis: Ran 54 simulations varying infection (β) and recovery (γ) rates across network topologies, analyzing the effects of parameters like population size, rewiring probability, and new edge degree on disease dynamics.
-
-💻 Modular & Scalable Codebase: Developed modular Java classes (Human.java, Main.java) allowing easy parameterization and extension of simulation logic, including automatic termination conditions and dynamic network generation.
-
-- [![View Source](https://img.shields.io/badge/GoogleDrive-Source_Code-blue?logo=google-drive)](https://drive.google.com/drive/folders/1hDrjjx4hr5YmvQRIMj7dVzE8EKDlosXz)
-
-
-
-### Parallel Closeness Centrality in Social Networks:
-
-🧠 Parallel Closeness Centrality in Social Networks: Implemented a scalable MPI-based solution using mpi4py, NetworkX, and Dijkstra's algorithm to compute closeness centrality on large real-world graphs (e.g., Facebook, Twitter datasets).
-
-⚡ Optimized for High Performance: Achieved a 12x speedup using up to 16 processors by distributing node subsets across cores and aggregating local results—analyzed runtime, speedup, and cost trends through performance plots.
-
-📈 End-to-End Pipeline: Built modular scripts for graph parsing, centrality computation (Dijk.py), and visualization (plot.py), producing top node rankings and average centrality metrics with clear output formatting.
-
-- [![View Source](https://img.shields.io/badge/GoogleDrive-Source_Code-blue?logo=google-drive)](https://drive.google.com/drive/folders/1fvw6hNSQa1PckS3ck1F4JK9U4xRKscAK)
-
-
-### Large-Scale Network Analysis:
-
-🌐 Large-Scale Network Analysis: Analyzed real-world datasets from Amazon (334k nodes) and Twitch (168k nodes) using NetworkX to compute graph metrics like average degree, clustering coefficient, and approximate path lengths.
-
-🧪 Simulation with Graph Models: Implemented and validated Watts-Strogatz and Barabasi-Albert models to simulate networks that closely matched original datasets based on key structural properties.
-
-⚙️ Scalable Methodology & Performance Tuning: Designed an efficient path length approximation method (O(n) vs O(n²)) to overcome high computational costs on HPC systems and validated results against NetworkX for consistency.
-
-- [![View Source](https://img.shields.io/badge/GoogleDrive-Source_Code-blue?logo=google-drive)](https://drive.google.com/drive/folders/1TVA0HBHXDpzDrnH7bRVWp3_oYIU1kDRX)
-
-
-
-
-### USED CAR PRICE PREDICTION USING ML:
-
-🚗 Used Car Price Prediction Web App: Developed a full-stack machine learning application to predict used car prices based on key vehicle features using Random Forest, SVM, and ANN models.
-
-🧠 Data-Driven Insights: Collected and preprocessed real-world datasets (from platforms like OLX & Kaggle), achieving over 80% model accuracy through data cleaning, feature encoding, and ensemble learning techniques.
-
-🌐 End-to-End Deployment: Built a user-friendly web interface using HTML/CSS/Bootstrap and deployed the ML model using Flask + Pickle, enabling real-time predictions from user input.
-
-- [![View Source](https://img.shields.io/badge/GoogleDrive-Source_Code-blue?logo=google-drive)](https://drive.google.com/drive/folders/1XjdIsQl5uQGaW5vEb3fpj6L9MWQ84kMt)
-
-
-
-
-
-## 🔧 Skills
-
-🧠 Core Programming Languages:
-
-💻 Python   |   🌐 JavaScript   |   🔧 C/C++   |   🐚 Bash
-
-
-🛡️ Cybersecurity & Tools:
-
-🧪 Kali Linux   |   🔍 Wireshark   |   💣 Metasploit   |   🛰️ Nmap   |   🕵️‍♂️ Burp Suite   |   📊 Splunk   |   🎯 Cobalt Strike
-
-
-☁️ Cloud & DevOps:
-
-☁️ Microsoft Azure   |   ☁️ AWS Security   |   🔐 Azure AD  |  🐳 Docker   |   ⚙️ Jenkins   |   📦 Kubernetes   |   🌀 Git
-
-
-🧱 Databases:
-
-🗄️ MySQL   |   🍃 MongoDB
-
-
-🤖 Additional Skills:
-
-🔁 Automation   |   🧵 ETL Pipelines   |    🧩 Parallel Computing (MPI)   |   🌐 Web Development
-
-🔐 VPNs • Firewalls • SSL/TLS • IDS/IPS • SIEM
-
-
-
-
-## Contact & Links
 ## 📬 Contact & Links
 
-- 📧 **Email:** [aumkaards16.work@gmail.com](mailto:aumkaards16.work@gmail.com)  
-- 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/aumkaareshwar/)  
-- 🛠️ **Projects:** [![Google Drive](https://img.shields.io/badge/GoogleDrive-Projects-blue?logo=google-drive)](https://drive.google.com/drive/folders/1PZxRgY7WBzn9P1ExpnuiuruvaT_fKwPe)  
+📧 [aumkaards16.work@gmail.com](mailto:aumkaards16.work@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aumkaareshwar/)  
+📁 [Google Drive Projects](https://drive.google.com/drive/folders/1PZxRgY7WBzn9P1ExpnuiuruvaT_fKwPe)
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by! Let's secure the world—one vulnerability at a time 🛡️</b>
+</p>
