@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Secure local Vault
+mkdir -p ~/Vault
 chmod 700 ~/Vault
 
 # Fix /etc/shadow (requires sudo)
