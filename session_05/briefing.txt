@@ -1,0 +1,4 @@
+MISSION INTEL:
+Target Gateway: 10.50.50.1
+Current Position: 10.50.50.150/26
+Objective: You are isolated. Adjust your mask to reach the gateway.
