@@ -1,0 +1,4 @@
+MISSION INTEL:
+Primary Interface: eth0
+Target Gateway: 10.0.0.1
+Objective: Restore connectivity and log evidence to ~/network_audit.txt
