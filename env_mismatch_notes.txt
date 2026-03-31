@@ -1,0 +1,5 @@
+- Remediated eth0 from 192.168.10.150/26 to 192.168.10.150/24
+- Restored default route via 192.168.10.1
+- Still received "Destination Host Unreachable" to 192.168.10.1 and 192.168.10.193
+- ARP capture showed traffic for 192.168.1.x, indicating eth0 was on 192.168.1.0/24 instead of 192.168.10.0/24
+- Could not complete required handshake because the VM was not attached to the expected lab segment

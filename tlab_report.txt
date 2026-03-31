@@ -1,0 +1,13 @@
+=== ip route output ===
+--- [ Local IPs ] ---
+lo => 127.0.0.1/8
+eth0 => 192.168.1.172/24
+eth1 => 
+docker0 => 172.17.0.1/16
+br-4b2e3575db1b => 172.18.0.1/16
+--- [ Public IPv4 ] ---
+Offline
+--- [ Public IPv6 ] ---
+
+
+=== tcpdump 3-way handshake ===
